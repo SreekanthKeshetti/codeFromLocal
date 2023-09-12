@@ -1,0 +1,12 @@
+Now this file is created in the local and i will intialise the git from here and push back this to the git hub. the steps followed are:
+step1: create a folder in local as we did just now.
+step2: intialize git in this using the command git init.
+step3: now we need to add a new origin(default repo to which this code has to be deployed).
+step4: go to git hub create a new repo and copy the link
+stpe5: to perform the step4 we use the below command with the link copied in the step4:
+git remote add origin<--link--> the name origin is the short hand for the repo we are sending the code.
+step6:verify the remote and brnach using the below commands:
+git remote -v
+git branch
+step7:remane the branch from master to main using th command    git branch -M main
+step8: push the code from main.
