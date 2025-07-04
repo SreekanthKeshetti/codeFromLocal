@@ -8,5 +8,5 @@ git remote add origin<--link--> the name origin is the short hand for the repo w
 step6:verify the remote and brnach using the below commands:
 git remote -v
 git branch
-step7:remane the branch from master to main using th command    git branch -M main
+step7:remane the branch from master to main using the command    git branch -M main
 step8: push the code from main.
